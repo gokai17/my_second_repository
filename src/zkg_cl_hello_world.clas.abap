@@ -14,7 +14,7 @@ ENDCLASS.
 
 CLASS zkg_cl_hello_world IMPLEMENTATION.
   METHOD if_oo_adt_classrun~main.
-    out->write( data = 'Hello World' ).
+    out->write( data = 'Hello World GitHub Pull_test' ).
   ENDMETHOD.
 
 ENDCLASS.
